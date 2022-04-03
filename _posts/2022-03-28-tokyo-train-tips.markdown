@@ -3,7 +3,7 @@ title: 5 Tokyo train tips
 excerpt: Here are my five tips to keep you sane and get you to your destination
   on the Tokyo Subway!!!
 ---
-![5 Tokyo train tips](/assets/images/blog-3a.jpg "5 Tokyo train tips")
+![5 Tokyo train tips](/assets/images/blog-3b.jpg "5 Tokyo train tips")
 
 When you first arrive in Tokyo it won’t be long before you need to use the subway.  It’s the most efficient way to get to from A to B in super quick time; you just have to master the lines and how they interact first. It’s a major feat of engineering and makes daily life flow for millions of people in Tokyo but it can be a bit overwhelming when you first encounter it.  You’re not going to be able to avoid it for long though so you might as well jump right in.  Here are my five tips to keep you sane and get you to your destination on the Tokyo Subway.
 
