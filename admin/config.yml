@@ -1,9 +1,6 @@
 backend:
   name: github
   repo: shapessss/anightinjapan2
-  accept_roles:
-    - admin
-    - editor
   branch: master 
 
 publish_mode: editorial_workflow
