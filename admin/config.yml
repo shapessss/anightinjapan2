@@ -4,7 +4,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main 
+  branch: master 
 
 publish_mode: editorial_workflow
 media_folder: "assets/images"
