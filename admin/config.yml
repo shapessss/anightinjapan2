@@ -21,7 +21,3 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "text"} # Custom excerpt
       - {label: "Body", name: "body", widget: "markdown"} # Mandatory body field for markdown files
-  - name: "pages"
-    label: "Pages"
-    label_singular: "Page"
-    create: true
