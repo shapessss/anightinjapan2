@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: shapessss/anightinjapan2
-  branch: master 
 
 publish_mode: editorial_workflow
 media_folder: "assets/images"
