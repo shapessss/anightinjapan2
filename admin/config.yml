@@ -1,7 +1,9 @@
 backend:
-  name: github
-  repo: shapessss/anightinjapan2 # your GitHub username and repository name, separated by a slash
-  branch: master # optional, default value is "master"
+  name: git-gateway
+  branch: master
+  accept_roles:
+    - admin
+    - editor
 
 publish_mode: editorial_workflow
 media_folder: "assets/images"
